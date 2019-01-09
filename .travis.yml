@@ -6,7 +6,7 @@ deploy:
   provider: heroku
   api_key:
     secure: JNUNGIFWYkoBnILC0mXONnz6SksosfX3MN3pOS42SELNhPlSdirFq8/cfmOOtVYusTfFMCoYgwyvWn+zuboXaMotNXVZoCQt+fn3Madx+lQmJhVWu1MXxuzCO9LGl0YpVDOhcqtwePMyt6Y3AsBnRETyHTYoXbTvbp0YdvtSPIrsDSwtlC8IqQLSOWELkQKX4JU2oSQHV8N4GdtTlPE9RcCm6qT5mcTjRomxJy00rXvFPgL0qitKeabfUYKMCKgKopfE9cPf/Awy+kXhG4zNyI9jOvEuOoDKCtf12wZ+c5ROiZVeEgsiAjHUVnpy/6NDu+3Nsxb/1vNpqKoX5xCjMi9GlZ0ogV76mvT//F3Yd2PbZIDFqAXPHresVevYFzQNE+iSV9J1+hk/pBrnpLBQdwsu8gTnwQWeMS4yjqR3XC0+nmPkrVdeqD7lepXmvQbM2/lnQ68f/GRtu6SGiW4tQ4LLaixiJeEpVDaIKP3U4DILk299qGRtXvEle1LF6BgpXinGIBKEqh+Qkil5MeNx2nHH3GOiNbZG8c1t9ujAmy4Q5XZEuHnql11+F36o73iRtbSU+ehFPU2HuvuZrVgSTunwm4iPyphiyaamynZKCxIpjAsSmsKPxaXmWZWIYOzL2TZ2ghi3Emiwcgm0OU5WKM73sCQNYA3NSjLLyWxOMe8=
-  app: y
+  app: peter-mongo-travis-integration
   on:
     repo: thinkful-ei27/peter-mongo-travis-integration-practice
     branch: feature/with-tests
